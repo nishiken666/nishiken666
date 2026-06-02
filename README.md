@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenta Nishimura</h1>
 <h3 align="center">I am a Project Manager and Full-Stack Engineer.</h3>
 
-- 👨‍💻 Apps I developed personally [https://apps.apple.com/jp/app/ゴルフメモ/id6746414134](https://apps.apple.com/jp/app/ゴルフメモ/id6746414134)
+- 👨‍💻 Apps I developed personally [https://apps.apple.com/jp/developer/kenta-nishimura/id1810392426](https://apps.apple.com/jp/developer/kenta-nishimura/id1810392426)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/%E5%81%A5%E6%B1%B0-%E8%A5%BF%E6%9D%91-46422a2b6/](https://www.linkedin.com/in/%E5%81%A5%E6%B1%B0-%E8%A5%BF%E6%9D%91-46422a2b6/)
 
