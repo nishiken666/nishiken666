@@ -3,8 +3,6 @@
 
 - 👨‍💻 Apps I developed personally [https://apps.apple.com/jp/developer/kenta-nishimura/id1810392426](https://apps.apple.com/jp/developer/kenta-nishimura/id1810392426)
 
-- 📄 Know about my experiences [https://youtrust.jp/users/79833f44defafe30fb05b1d812df36f2](https://youtrust.jp/users/79833f44defafe30fb05b1d812df36f2)
-
 <h3 align="left">Languages and Tools:</h3>
 
 **Languages**
